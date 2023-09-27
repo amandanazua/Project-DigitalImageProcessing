@@ -1,0 +1,9 @@
+petunjuk penggunaan program
+
+Pertama, pastikan Anda telah menyiapkan gambar yang ingin Anda jadikan objek. Sesuaikan path gambar dengan mengubah nilai variabel "content_path" di dalam program. Anda dapat menggunakan gambar dari dataset yang disediakan atau menggunakan gambar sendiri.
+
+Selanjutnya, sesuaikan folder gambar efek yang ingin Anda gunakan. Ubah nilai variabel "style_folder" dengan path folder gambar efek yang Anda inginkan. Anda dapat menggunakan dataset gambar yang disediakan atau menggunakan gambar efek kustom Anda sendiri.
+
+Untuk mengatur penyimpanan hasil kartunisasi, tentukan path folder output di variabel "output_folder". Sesuaikan path tersebut dengan lokasi di mana Anda ingin menyimpan hasil kartunisasi gambar.
+
+Setelah mengatur semua path dengan benar, Anda dapat melakukan debug code dan hasil kartunisasi gambar akan otomatis dihasilkan dan disimpan di path yang Anda tentukan.
